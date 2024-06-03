@@ -15,7 +15,7 @@ def ordinal_encoder(input_val,feats):
 
 
 def get_prediction(data):
-    model_path = r"F:\Guided Project\RTA\RTA\model.sav"
+    model_path = r"model.sav"
     model = joblib.load(model_path)
     return model.predict(data)
     
