@@ -1,5 +1,5 @@
 # Road_Accident_Prediction
-https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/
+ 
 
 Please use the below link to access the cloud-deployed application
 
