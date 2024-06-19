@@ -1,10 +1,5 @@
 # Road_Accident_Prediction
-  <picture>
-    <source srcset="night.jpg" media="(prefers-color-scheme: dark)">
-    <img src="day.jpg">
-</picture>
-
-Please use the below link to access the cloud-deployed application
+![Road Accident Severity]( "C:\Users\Owner\Pictures\Screenshots\Screenshot (301).png")
 
 Streamlit URL: [(https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/) ]
 
