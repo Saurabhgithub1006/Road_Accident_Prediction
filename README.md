@@ -1,9 +1,25 @@
 # Road_Accident_Prediction
- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbeautiful-scenery.html&psig=AOvVaw2xjQd3NDwBsR0tJrF08H6W&ust=1718898324444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJja0LGB6IYDFQAAAAAdAAAAABAE.jpg">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waterfall Scenery</title>
+</head>
+<body>
+    <h1>Beautiful Waterfall Scenery</h1>
+    <picture>
+        <!-- Image for dark mode -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://example.com/path/to/darkmode-waterfall.jpg">
+        
+        <!-- Image for light mode -->
+        <source media="(prefers-color-scheme: light)" srcset="https://example.com/path/to/lightmode-waterfall.jpg">
+        
+        <!-- Fallback image if neither dark nor light mode is matched -->
+        <img alt="Waterfall Scenery" src="https://example.com/path/to/default-waterfall.jpg">
+    </picture>
+</body>
+</html>
 
 Please use the below link to access the cloud-deployed application
 
