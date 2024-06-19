@@ -1,25 +1,9 @@
 # Road_Accident_Prediction
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Waterfall Scenery</title>
-</head>
-<body>
-    <h1>Beautiful Waterfall Scenery</h1>
-    <picture>
-        <!-- Image for dark mode -->
-        <source media="(prefers-color-scheme: dark)" srcset="https://example.com/path/to/darkmode-waterfall.jpg">
-        
-        <!-- Image for light mode -->
-        <source media="(prefers-color-scheme: light)" srcset="https://example.com/path/to/lightmode-waterfall.jpg">
-        
-        <!-- Fallback image if neither dark nor light mode is matched -->
-        <img alt="Waterfall Scenery" src="https://example.com/path/to/default-waterfall.jpg">
-    </picture>
-</body>
-</html>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 Please use the below link to access the cloud-deployed application
 
