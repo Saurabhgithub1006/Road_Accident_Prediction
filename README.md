@@ -1,6 +1,6 @@
 # Road_Accident_Prediction
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbeautiful-scenery.html&psig=AOvVaw2xjQd3NDwBsR0tJrF08H6W&ust=1718898324444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJja0LGB6IYDFQAAAAAdAAAAABAE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbeautiful-scenery.html&psig=AOvVaw2xjQd3NDwBsR0tJrF08H6W&ust=1718898324444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJja0LGB6IYDFQAAAAAdAAAAABAE.jpg">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
