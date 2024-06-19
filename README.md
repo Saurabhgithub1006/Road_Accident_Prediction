@@ -1,5 +1,5 @@
 # Road_Accident_Prediction
-![Road Accident Severity]( "C:\Users\Owner\Pictures\Screenshots\Screenshot (301).png")
+![Road Accident Severity]( " https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcar-accident-cartoon&psig=AOvVaw0BazxxUwIgSuwa2ccy_1F3&ust=1718899608022000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICbpqqG6IYDFQAAAAAdAAAAABAE.png")
 
 Streamlit URL: [(https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/) ]
 
