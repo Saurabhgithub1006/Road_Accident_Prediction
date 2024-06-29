@@ -1,6 +1,6 @@
 # Road_Accident_Prediction
  
-Streamlit URL: [(https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/)] 
+[Streamlit URL:] [(https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/)] 
 
 
 # Project Description:
