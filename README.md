@@ -3,23 +3,17 @@
 [Streamlit URL:] [(https://roadaccidentprediction-haxnsdyl4yw4pagqroc72y.streamlit.app/)] 
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/app_gif.gif?raw=true)
  
-# Project Description:
-
-This data set is collected from Addis Ababa Sub-city police departments for master's research work. The data set has been prepared from manual records of road traffic accidents of the year 2017-20. All the sensitive information has been excluded during data encoding and finally it has 32 features and 12316 instances of the accident. Then it is preprocessed and for identification of major causes of the accident by analyzing it using different machine learning classification algorithms.
-
-![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/Screenshot%20(301).png?raw=true)
-
-# Problem Statement:
-
-The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. Your metric for evaluation will be f1-score
 
 
-![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/pic_accident.jpeg?raw=true)
+ 
+
+
 
 
 
 # Project Overview
 This project aims to predict the severity of road traffic accidents using data collected from Addis Ababa Sub-city police departments. The dataset covers road traffic accidents from 2017-2020 and has been used to identify the major causes of accidents by analyzing it with various machine learning classification algorithms.
+![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/pic_accident.jpeg?raw=true)
 
 # Dataset
 Source: Addis Ababa Sub-city police departments
@@ -49,9 +43,11 @@ Evaluated model performance using the f1-score.
 # Results
 Best Model: Extra Trees Classifier
 Accuracy: Achieved a best-in-class accuracy score of 88%
+
 # Deployment
 Platform: Streamlit
 Functionality: Deployed the optimized model on an interactive website, enabling users to input data and receive real-time predictions.
 # Conclusion
 The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
+![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/Screenshot%20(301).png?raw=true)
 
