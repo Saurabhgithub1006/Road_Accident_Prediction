@@ -13,10 +13,11 @@
 
 # Project Overview
 This project aims to predict the severity of road traffic accidents using data collected from Addis Ababa Sub-city police departments. The dataset covers road traffic accidents from 2017-2020 and has been used to identify the major causes of accidents by analyzing it with various machine learning classification algorithms.
+
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/pic_accident.jpeg?raw=true)
 
 # Dataset
-Source: Addis Ababa Sub-city police departments
+#### Source: Addis Ababa Sub-city police departments
 Description: The dataset was prepared from manual records of road traffic accidents from 2017-2020. All sensitive information was excluded during data encoding.
 Features: 32 features
 Instances: 12,316 instances
