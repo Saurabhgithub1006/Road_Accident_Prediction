@@ -24,32 +24,32 @@ This project aims to predict the severity of road traffic accidents using data c
 * Target Feature: Accident_severity (multi-class variable)
 
 # Objective
-To classify the accident severity based on 31 features, using step-by-step machine learning techniques, with the f1-score as the evaluation metric.
+* To classify the accident severity based on 31 features, using step-by-step machine learning techniques, with the f1-score as the evaluation metric.
 
 # Approach
-Data Preprocessing:
+* Data Preprocessing:
 
 Cleaned and preprocessed the dataset for analysis.
-Exploratory Data Analysis (EDA):
+* Exploratory Data Analysis (EDA):
 
 Conducted EDA to gain deeper insights into the target variable and form data-driven hypotheses.
-Feature Engineering:
+* Feature Engineering:
 
 Implemented feature selection and engineering techniques to enhance the model's predictive power.
-Model Development:
+* Model Development:
 
 Built and fine-tuned classification models using XGBoost, Random Forest, and Extra Trees Classifier.
-Evaluation:
+* Evaluation:
 
 Evaluated model performance using the f1-score.
 # Results
-Best Model: Extra Trees Classifier
-Accuracy: Achieved a best-in-class accuracy score of 88%
+* Best Model: Extra Trees Classifier
+* Accuracy: Achieved a best-in-class accuracy score of 88%
 
 # Deployment
 Platform: Streamlit
-Functionality: Deployed the optimized model on an interactive website, enabling users to input data and receive real-time predictions.
+* Functionality: Deployed the optimized model on an interactive website, enabling users to input data and receive real-time predictions.
 # Conclusion
-The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
+*The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/Screenshot%20(301).png?raw=true)
 
