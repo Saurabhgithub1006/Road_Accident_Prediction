@@ -17,7 +17,7 @@ This project aims to predict the severity of road traffic accidents using data c
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/pic_accident.jpeg?raw=true)
 
 # Dataset
--Source: Addis Ababa Sub-city police departments
+* Source: Addis Ababa Sub-city police departments
 -Description: The dataset was prepared from manual records of road traffic accidents from 2017-2020. All sensitive information was excluded during data encoding.
 -Features: 32 features
 -Instances: 12,316 instances
