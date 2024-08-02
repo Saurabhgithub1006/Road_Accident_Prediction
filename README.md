@@ -47,7 +47,7 @@ Evaluated model performance using the f1-score.
 * Accuracy: Achieved a best-in-class accuracy score of 88%
 
 # Deployment
-Platform: Streamlit
+* Platform: Streamlit
 * Functionality: Deployed the optimized model on an interactive website, enabling users to input data and receive real-time predictions.
 # Conclusion
 * The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
