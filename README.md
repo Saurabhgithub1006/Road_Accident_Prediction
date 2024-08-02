@@ -12,7 +12,7 @@
 
 
 # Project Overview
-This project aims to predict the severity of road traffic accidents using data collected from Addis Ababa Sub-city police departments. The dataset covers road traffic accidents from 2017-2020 and has been used to identify the major causes of accidents by analyzing it with various machine learning classification algorithms.
+* This project aims to predict the severity of road traffic accidents using data collected from Addis Ababa Sub-city police departments. The dataset covers road traffic accidents from 2017-2020 and has been used to identify the major causes of accidents by analyzing it with various machine learning classification algorithms.
 
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/pic_accident.jpeg?raw=true)
 
@@ -50,6 +50,6 @@ Evaluated model performance using the f1-score.
 Platform: Streamlit
 * Functionality: Deployed the optimized model on an interactive website, enabling users to input data and receive real-time predictions.
 # Conclusion
-*The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
+* The developed machine learning model effectively predicts accident severity, addressing a critical safety concern with a robust and reliable model achieving an 88% accuracy score.
 ![image](https://github.com/Saurabhgithub1006/Road_Accident_Prediction/blob/main/Screenshot%20(301).png?raw=true)
 
